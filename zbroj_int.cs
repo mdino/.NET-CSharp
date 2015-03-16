@@ -1,4 +1,6 @@
-//Napravite aplikaciju koja od korisnika traži unos dva decimalna zbroja te računa njihov zbroj. U aplikaciji se za pohranu smije koristiti samo int tip podataka. Zbog ovog ograničenja najjednostavnije je napraviti strukturu/klasu za pohranu decimalnih brojeva. 
+/* Napravite aplikaciju koja od korisnika traži unos dva decimalna zbroja te računa njihov zbroj.
+U aplikaciji se za pohranu smije koristiti samo int tip podataka.
+Zbog ovog ograničenja najjednostavnije je napraviti strukturu/klasu za pohranu decimalnih brojeva. */
 
 using System;
 using Sytem.Collections.Generic;
