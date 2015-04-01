@@ -1,0 +1,54 @@
+//klikom na tipku broji se broj klikova, nakon X klikova se vrijednost resetira.
+X vrijednost korisnik unosi preko textboxa. Broj klikova se zapisuje u label.
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace zad2
+{
+    public partial class Form1 : Form
+    {
+        int zbroj=0;
+
+        public Form1()
+        {
+            InitializeComponent();
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            zbroj++;
+            label1.Text = zbroj.ToString();
+
+             if (textBox1.Text==zbroj.ToString()) {
+                zbroj = 0;
+            }
+
+            }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        }
+    }
+
