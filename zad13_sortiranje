@@ -1,0 +1,43 @@
+// upisi u textbox sortiraj i ponovo ispisi u textboxu
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace zad13
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string upis =textBox1.Text;
+            string[] splitaj=upis.Split(',');
+
+            List<int> lista = new List<int>();
+
+            foreach (string upisuj in splitaj) {
+                lista.Add(Convert.ToInt32(upisuj));
+            }
+
+            lista.Sort();
+            textBox1.Clear();
+
+            foreach (int ispis in lista) {
+                textBox1.Text += ispis.ToString() + ",";
+            }
+
+
+        }
+    }
+}
