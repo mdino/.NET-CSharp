@@ -29,6 +29,14 @@ namespace zad13
             foreach (string upisuj in splitaj) {
                 lista.Add(Convert.ToInt32(upisuj));
             }
+            
+            
+            /*
+            for (int i=1; i<splitaj.Length;i++) {
+
+                lista.Add(i);
+            }
+            */
 
             lista.Sort();
             textBox1.Clear();
