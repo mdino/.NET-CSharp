@@ -18,6 +18,18 @@ namespace ConsoleApplication1
             }
 
             Console.WriteLine(splitNumbers[1].Length);
+            
+            
+            
+            string s = "there is a cat";
+	// Split string on spaces.
+	// ... This will separate all the words.
+	string[] words = s.Split(' ');
+	foreach (string word in words)
+	{
+	    Console.WriteLine(word);
+	}
+
             Console.ReadKey();
         }
     }
