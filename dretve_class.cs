@@ -43,3 +43,61 @@ namespace zadatak_01
 
 
 
+/*
+PRVA KLASA
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Threading;
+
+namespace zadatak_01
+{
+    class MyDisplay
+    {
+        public void myThreadOne() {
+            Thread.Sleep(5000);
+            MessageBox.Show("Prva dretva");
+        
+        }
+    }
+}
+
+
+
+DRUGA KLASA
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Threading;
+
+namespace zadatak_01
+{
+    class MyComm
+    {
+        public void drugaDretva() {
+
+            Thread.Sleep(5000);
+            MessageBox.Show("Druga dretva");
+        
+        
+        }
+
+    }
+}
+
+
+
+
+
+*/
+
+
