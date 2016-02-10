@@ -1,0 +1,17 @@
+ SQLiteDataReader reader = klasa.Upit(sql);
+ List<Person> novalista = new List<Person>();
+
+            while (reader.Read())
+            {
+                novalista.Add(new Person() { oznakaTima = reader["OznakaTima"].ToString(), });
+            }
+  reader.Close();
+  dataGridView1.DataSource = novalista
+  ————————————————————————————
+
+    class Person
+    {
+        public String oznakaTima { get; set; }
+    }
+
+
