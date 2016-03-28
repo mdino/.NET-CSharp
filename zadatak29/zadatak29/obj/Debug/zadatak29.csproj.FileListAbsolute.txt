@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\bin\Debug\zadatak29.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\bin\Debug\zadatak29.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\bin\Debug\zadatak29.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\obj\Debug\zadatak29.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\obj\Debug\zadatak29.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\obj\Debug\zadatak29.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\obj\Debug\zadatak29.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\obj\Debug\zadatak29.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak29\zadatak29\obj\Debug\zadatak29.pdb

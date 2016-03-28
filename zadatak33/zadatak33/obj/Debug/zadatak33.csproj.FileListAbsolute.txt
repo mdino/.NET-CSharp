@@ -1,0 +1,8 @@
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak33\zadatak33\bin\Debug\zadatak33.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak33\zadatak33\bin\Debug\zadatak33.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak33\zadatak33\bin\Debug\zadatak33.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak33\zadatak33\obj\Debug\zadatak33.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak33\zadatak33\obj\Debug\zadatak33.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak33\zadatak33\obj\Debug\zadatak33.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak33\zadatak33\obj\Debug\zadatak33.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak33\zadatak33\obj\Debug\zadatak33.pdb

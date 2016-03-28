@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\bin\Debug\test.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\bin\Debug\test.exe
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\bin\Debug\test.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\obj\Debug\test.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\obj\Debug\test.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\obj\Debug\test.exe
+\\psf\Home\Documents\pi\Pi - zadaci\test\test\obj\Debug\test.pdb

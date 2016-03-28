@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\bin\Debug\Zadatak9.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\bin\Debug\Zadatak9.exe
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\bin\Debug\Zadatak9.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\obj\Debug\Zadatak9.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\obj\Debug\Zadatak9.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\obj\Debug\Zadatak9.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\obj\Debug\Zadatak9.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\obj\Debug\Zadatak9.exe
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak9\Zadatak9\obj\Debug\Zadatak9.pdb

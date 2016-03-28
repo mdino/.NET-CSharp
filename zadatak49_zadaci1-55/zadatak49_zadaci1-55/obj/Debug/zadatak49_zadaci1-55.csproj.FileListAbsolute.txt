@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\bin\Debug\zadatak49_zadaci1-55.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\bin\Debug\zadatak49_zadaci1-55.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\bin\Debug\zadatak49_zadaci1-55.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\obj\Debug\zadatak49_zadaci1-55.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\obj\Debug\zadatak49_zadaci1_55.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\obj\Debug\zadatak49_zadaci1_55.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\obj\Debug\zadatak49_zadaci1-55.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\obj\Debug\zadatak49_zadaci1-55.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak49_zadaci1-55\zadatak49_zadaci1-55\obj\Debug\zadatak49_zadaci1-55.pdb

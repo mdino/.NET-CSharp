@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\bin\Debug\zadatak50.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\bin\Debug\zadatak50.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\bin\Debug\zadatak50.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\obj\Debug\zadatak50.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\obj\Debug\zadatak50.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\obj\Debug\zadatak50.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\obj\Debug\zadatak50.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\obj\Debug\zadatak50.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak50\zadatak50\obj\Debug\zadatak50.pdb

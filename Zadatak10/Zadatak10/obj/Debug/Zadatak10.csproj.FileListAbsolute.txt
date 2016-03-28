@@ -1,0 +1,8 @@
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak10\Zadatak10\bin\Debug\Zadatak10.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak10\Zadatak10\bin\Debug\Zadatak10.exe
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak10\Zadatak10\bin\Debug\Zadatak10.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak10\Zadatak10\obj\Debug\Zadatak10.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak10\Zadatak10\obj\Debug\Zadatak10.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak10\Zadatak10\obj\Debug\Zadatak10.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak10\Zadatak10\obj\Debug\Zadatak10.exe
+\\psf\Home\Documents\pi\Pi - zadaci\Zadatak10\Zadatak10\obj\Debug\Zadatak10.pdb

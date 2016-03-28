@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\bin\Debug\zadatak19.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\bin\Debug\zadatak19.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\bin\Debug\zadatak19.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\obj\Debug\zadatak19.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\obj\Debug\zadatak19.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\obj\Debug\zadatak19.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\obj\Debug\zadatak19.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\obj\Debug\zadatak19.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak19\zadatak19\obj\Debug\zadatak19.pdb

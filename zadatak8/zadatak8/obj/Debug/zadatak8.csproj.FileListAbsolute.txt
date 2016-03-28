@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\bin\Debug\zadatak8.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\bin\Debug\zadatak8.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\bin\Debug\zadatak8.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\obj\Debug\zadatak8.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\obj\Debug\zadatak8.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\obj\Debug\zadatak8.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\obj\Debug\zadatak8.exe
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\obj\Debug\zadatak8.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\zadatak8\zadatak8\obj\Debug\zadatak8.csprojResolveAssemblyReference.cache

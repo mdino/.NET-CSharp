@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\bin\Debug\Vjezba15.exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\bin\Debug\Vjezba15.exe
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\bin\Debug\Vjezba15.pdb
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\obj\Debug\Vjezba15.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\obj\Debug\Vjezba15.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\obj\Debug\Vjezba15.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\obj\Debug\Vjezba15.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\obj\Debug\Vjezba15.exe
+\\psf\Home\Documents\pi\Pi - zadaci\Vjezba15\Vjezba15\obj\Debug\Vjezba15.pdb

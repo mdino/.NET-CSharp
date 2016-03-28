@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\bin\Debug\test_ToList().exe.config
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\bin\Debug\test_ToList().exe
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\bin\Debug\test_ToList().pdb
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\obj\Debug\test_ToList().csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\obj\Debug\test_ToList__.Form1.resources
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\obj\Debug\test_ToList__.Properties.Resources.resources
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\obj\Debug\test_ToList().csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\obj\Debug\test_ToList().exe
+\\psf\Home\Documents\pi\Pi - zadaci\test_ToList()\test_ToList()\obj\Debug\test_ToList().pdb
